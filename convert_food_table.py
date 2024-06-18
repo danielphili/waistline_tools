@@ -13,8 +13,8 @@ import json
 
 if __name__ == '__main__':
     # parameters
-    input_file_name = 'foods.json'
-    output_file_name = 'foods_converted.json'
+    input_file_name = 'data/foods.json'
+    output_file_name = 'data/foods_converted.json'
     
     # Equivalence table for matching nutrients
     nutrient_equivalents = {'calcium': 'Ca',
